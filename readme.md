@@ -1,6 +1,7 @@
 # Diamonds price 
 
-![diamond](https://www.ministryofdiamond.com/wp-content/uploads/2019/12/lab-grown-diamond-new-2.jpg)
+
+<img src="https://www.ministryofdiamond.com/wp-content/uploads/2019/12/lab-grown-diamond-new-2.jpg" width="320" height="310">
 
 This project developed to predict the price of a new diamond and by using the [data set](https://www.kaggle.com/shivam2503/diamonds) from [kaggle](https://www.kaggle.com/).
 
